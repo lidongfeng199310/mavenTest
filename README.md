@@ -1,0 +1,2 @@
+# mavenTest
+这是mave一个测试项目其中包含了springBoot的一些相关属性
